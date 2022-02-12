@@ -12,3 +12,23 @@ body {
     text-align: center;
 }
 
+h3 {
+    font-size: 1.5em;
+    color: white;
+    padding: 30px;
+}
+
+.popup.container {
+    box-sizing: border-box;
+}
+/***Header***/
+
+.hero-area {
+    display: flex;
+    justify-content: center;
+    flex: row wrap;
+    color: #2355f2;
+}
+
+
+
