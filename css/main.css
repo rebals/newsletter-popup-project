@@ -18,8 +18,22 @@ h3 {
     padding: 30px;
 }
 
+h5 {
+    font-size: .85em;
+    font-weight: 700;
+}
+
+h6 {
+    font-size: .85em;
+    color: grey;
+    font-weight: 300;
+}
+
 .popup.container {
-    box-sizing: border-box;
+    width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
 /***Header***/
 
