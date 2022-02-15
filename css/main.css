@@ -1,15 +1,17 @@
 html {
-   height: 100%; 
-   font-size: 16px;
-}
-
-body {
+    height: 100%; 
+    font-size: 16px;
     background: url(../Assets/Background.png);
     background-size: cover;
-    background-position: center;  
+    background-position: center; 
+}
+
+body {     
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
     text-align: center;
+    background-color: white;
+    margin: 15px;
 }
 
 h3 {
@@ -29,20 +31,17 @@ h6 {
     font-weight: 300;
 }
 
-.popup.container {
-width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+p {
+    font-size: .75em;
 }
+
+
+
 /***Header***/
 
 .hero-area {
-    display: flex;
-    justify-content: center;
-    flex: row wrap;
-    color: #2355f2;
+    background: url(../Assets/Pattern.png);
+    background-color: #2355f2;
 }
-
 
 
