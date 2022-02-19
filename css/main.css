@@ -9,9 +9,10 @@ html {
 body {     
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
-    text-align: center;
-    background-color: white;
-    margin: 15px;
+    width: 500px;
+    padding: 0;
+    background: white;
+    margin: 0 auto;
 }
 
 h3 {
@@ -39,6 +40,7 @@ p {
 
 .hero-area {
     background: url(../Assets/Pattern.png);
+    background-size: cover;
     background-color: #2355f2;
 }
 
