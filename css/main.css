@@ -10,7 +10,6 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
     width: 500px;
-    padding: 0;
     background: white;
     margin: 0 auto;
 }
@@ -42,6 +41,10 @@ p {
     background: url(../Assets/Pattern.png);
     background-size: cover;
     background-color: #2355f2;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /***Subcribe***/
