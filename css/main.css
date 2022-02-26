@@ -12,6 +12,7 @@ body {
     width: 390px;
     background: white;
     margin: 156px auto;
+    display: flex;
 }
 
 h3 {
@@ -46,5 +47,7 @@ p {
     justify-content: center;
     align-items: center;
 }
+
+.hero-area h3 {}
 
 /***Subcribe***/
