@@ -12,7 +12,6 @@ body {
     width: 390px;
     background: white;
     margin: 156px auto;
-    display: flex;
 }
 
 h3 {
@@ -44,10 +43,7 @@ p {
     background-color: #2355f2;
     padding: 15px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
-
-.hero-area h3 {}
 
 /***Subcribe***/
