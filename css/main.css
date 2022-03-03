@@ -49,6 +49,5 @@ p {
 /***Subcribe***/
 
 .subscribe-form {
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
