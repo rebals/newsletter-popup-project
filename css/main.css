@@ -48,6 +48,9 @@ p {
 
 /***Subcribe***/
 
-.subscribe-form {
+.subscribe-form{
+    padding: 0 10px;
+}
+.subscribe-form h6{
     text-align: center;
 }
