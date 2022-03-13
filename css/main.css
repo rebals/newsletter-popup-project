@@ -78,3 +78,8 @@ input[type=button], input[type=submit], input[type=reset] {
     border-radius: 4px;
     color: rgba(172, 172, 172, 0.623);
   }
+
+  .user-profile {
+      display: flex;
+      flex-flow: row;
+  }
