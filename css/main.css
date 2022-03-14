@@ -82,4 +82,5 @@ input[type=button], input[type=submit], input[type=reset] {
   .user-profile {
       display: flex;
       flex-flow: row;
+      padding: 15px;
   }
