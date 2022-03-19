@@ -1,86 +1,92 @@
 html {
-    height: 100%; 
-    font-size: 16px;
-    background: url(../Assets/Background.png);
-    background-size: cover;
-    background-position: center; 
+  height: 100%;
+  font-size: 16px;
+  background: url(../Assets/Background.png);
+  background-size: cover;
+  background-position: center;
 }
 
-body {     
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1em;
-    width: 390px;
-    background: white;
-    margin: 156px auto;
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+  width: 390px;
+  background: white;
+  margin: 156px auto;
 }
 
 h3 {
-    font-size: 1.5em;
-    color: white;
-    padding: 30px;
+  font-size: 1.5em;
+  color: white;
+  padding: 30px;
 }
 
 h5 {
-    font-size: .8em;
-    font-weight: 700;
+  font-size: 0.8em;
+  font-weight: 700;
 }
 
 h6 {
-    font-size: .85em;
-    color: grey;
-    font-weight: 300;
+  font-size: 0.85em;
+  color: grey;
+  font-weight: 300;
 }
 
 p {
-    font-size: .75em;
+  font-size: 0.75em;
 }
 
 /***Header***/
 
 .hero-area {
-    background: url(../Assets/Pattern.png);
-    background-size: cover;
-    background-color: #2355f2;
-    padding: 15px;
-    display: flex;
-    text-align: center;
+  background: url(../Assets/Pattern.png);
+  background-size: cover;
+  background-color: #2355f2;
+  padding: 15px;
+  display: flex;
+  text-align: center;
 }
 
 /***Subcribe***/
 
-.subscribe-form{
-    padding: 0 15px;
+.subscribe-form {
+  padding: 0 15px;
 }
-.subscribe-form h6{
-    text-align: center;
+.subscribe-form h6 {
+  text-align: center;
 }
 
-input[type=button], input[type=submit], input[type=reset] {
-    background-color: blue;
-    border: none;
-    color: white;
-    padding: 10px 10px;
-    text-decoration: none;
-    cursor: pointer;
-    border-radius: 4px;
-    width: 112px;
-    height: 44px;
-    font-weight: 600;
-  }
+input[type="button"],
+input[type="submit"],
+input[type="reset"] {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 112px;
+  height: 44px;
+  font-weight: 600;
+}
 
-  input[type=email] {
-    width: 56%;
-    background-color: rgba(201, 201, 201, 0.329);
-    border: 1px solid rgb(219, 219, 219);
-    padding: 14px 20px;
-    margin: 8px 0;
-    cursor: pointer;
-    border-radius: 4px;
-    color: rgba(172, 172, 172, 0.623);
-  }
+input[type="email"] {
+  width: 56%;
+  background-color: rgba(201, 201, 201, 0.329);
+  border: 1px solid rgb(219, 219, 219);
+  padding: 14px 20px;
+  margin: 8px 0;
+  cursor: pointer;
+  border-radius: 4px;
+  color: rgba(172, 172, 172, 0.623);
+}
 
-  .user-profile {
-      display: flex;
-      flex-flow: row;
-      padding: 15px;
-  }
+.user-profile {
+  display: flex;
+  flex-flow: row;
+  padding: 15px;
+}
+
+.user-name {
+  padding: 25px;
+}
