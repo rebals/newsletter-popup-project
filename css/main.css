@@ -83,10 +83,12 @@ input[type="email"] {
 
 .user-profile {
   display: flex;
-  flex-flow: row;
   padding: 15px;
 }
 
+.user-image {
+  padding: 0 35px;
+}
 .user-name {
-  padding: 5px;
+  padding: 5px 10px;
 }
