@@ -41,6 +41,7 @@ p {
   background: url(../Assets/Pattern.png);
   background-size: cover;
   background-color: #2355f2;
+  margin: 0;
   padding: 15px;
   display: flex;
   text-align: center;
@@ -49,6 +50,7 @@ p {
 /***Subcribe***/
 
 .subscribe-form {
+  margin: 0;
   padding: 0 15px;
 }
 .subscribe-form h6 {
@@ -83,6 +85,7 @@ input[type="email"] {
 
 .user-profile {
   display: flex;
+  margin: 0;
   padding: 15px;
 }
 
