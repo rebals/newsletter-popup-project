@@ -93,5 +93,6 @@ input[type="email"] {
   padding: 0 35px;
 }
 .user-name {
+  display: flex;
   padding: 5px 10px;
 }
