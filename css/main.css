@@ -93,8 +93,4 @@ input[type="email"] {
   padding: 0 35px;
 }
 .user-name {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  flex-flow: column;
 }
