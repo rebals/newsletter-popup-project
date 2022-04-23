@@ -63,7 +63,7 @@ p {
 input[type="button"],
 input[type="submit"],
 input[type="reset"] {
-  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.863);
   border: none;
   color: white;
   padding: 10px 10px;
